@@ -1,4 +1,4 @@
-from logger import log_debug, log_error, log_info, log_error1, log_error2, notify_in_background
+from logger import log_debug, log_error, log_info, log_error1, log_error2
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
