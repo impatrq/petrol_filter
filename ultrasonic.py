@@ -23,10 +23,14 @@ BOOLSENSOR = 18 # pin 12
 
 GPIO.setmode(GPIO.BCM)
 
+# salida y entrada del ultrasonico
+
+GPIO.setup(TRIG, GPIO.OUT)
+GPIO.setup(ECHO, GPIO.IN)
+
 # entrada del sensor logico
 
 GPIO.setup(BOOLSENSOR, GPIO.IN)
-GPIO.input(BOOLSENSOR, False)
 
 # salida del transistor bomba de agua 
 
