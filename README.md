@@ -3,7 +3,7 @@
  [![sergio-queridooo.jpg](https://i.postimg.cc/gkKxMjy6/sergio-queridooo.jpg)](https://postimg.cc/3ddrNKcK)
 
 # Que es Petrol filter?
-## Petrol filter es un prototipo de boyas autosustentables que decantan el agua del hidrocarburo, para evitar la expansion en un accidente y reducir el impacto ambiental. generando asi una solucion a corto plazo de un problema tan grande como es un derrame de petroleo. siendo completamente autonomo y eficaz.
+## El Petrol Filter sirve como prototipo de boyas autosostenibles diseñadas para separar el agua de los hidrocarburos, mitigando la expansión en caso de accidente y minimizando el impacto ambiental. Esto presenta una solución a corto plazo al importante problema de los derrames de petróleo, ofreciendo completa autonomía y eficacia.
 <!--    AAAA -->
 # Quienes lo diseñaron?
 
