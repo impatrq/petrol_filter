@@ -30,26 +30,31 @@ Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competenci
 
 
 # Petrol Filter
-  * ig: petrol_filter2022
-  * linkedin:<li><a href="https://www.linkedin.com/company/petrol-filter/about/">Petrol filter</a></li>
-   * <h4 >petrolfilter2022@gmail.com</h4>
-* Rodriguez Guillet Martín
-  * ig: tincho.rg
-  * linkedin: <li><a href="https://www.linkedin.com/in/mart%C3%ADn-andr%C3%A9s-rodriguez-guillet-150857239/">Martin guillet Rodriguez</a></li>
-  * <h4 >Gmail: mrodriguezguillet@gmail.com</h4>
-* Rodriguez Franco
-  * ig: fraan.roodri
-  *  linkedin: <li><a href="https://www.linkedin.com/in/franco-jose-rodriguez-58719a23a/">Franco Rodriguez</a></li>
-  * <h4>Gmail: francototites@gmail.com</h4>
-* Ramirez Ulices
-  * ig: ul1ces_ra
-  * linkedin: <li><a href="https://www.linkedin.com/in/ulices-ramirez-218a37215/">Ulices Ramirez</a></li>
-  * <h4>Gmail: ulicesramirez352@gmail.com</h4>
-* Adell Matias 
-  * ig: matias_adell
-  * linkedin: <li><a href="https://www.linkedin.com/in/matias-adell-8ba809142/">Matias Adell</a></li>
-  * <h4>Gmail: matiasadell@hotmail.com</h4>
-* Vilardo Guido
-  * ig: vilardo_guido007
-  * linkedin: <li><a href="https://www.linkedin.com/in/guido-vilardo-a231a223a/">Guido Vilardo</a></li>
-  * <h4>Gmail: guidovilardo03@gmail.com</h4>
+  * <h4>ig: petrol_filter2022</h4>
+  * <h4></h4>linkedin:<a href="https://www.linkedin.com/company/petrol-filter/about/">Petrol filter</a></h4>
+  * <h4>petrolfilter2022@gmail.com</li<h4>
+ <h2>Rodriguez Guillet Martín</h2>
+ 
+  * <h4>ig: tincho.rg</h4>
+  * <h4>linkedin:<a href="https://www.linkedin.com/in/mart%C3%ADn-andr%C3%A9s-rodriguez-guillet-150857239/">Martin guillet Rodriguez</a></li></h4>
+  * <h4>Gmail: mrodriguezguillet@gmail.com</h4>
+ <h2>Rodriguez Franco</h2>
+ 
+  * <h4>ig: fraan.roodri</h4>
+  * <h4>linkedin:<a href="https://www.linkedin.com/in/franco-jose-rodriguez-58719a23a/">Franco Rodriguez</a></h4>
+  * <h4> <h4>Gmail: francototites@gmail.com</h4></h4>
+ <h2>Ramirez Ulices</h2>
+ 
+  * <h4>ig: ul1ces_ra</h4>
+  * <h4>linkedin:<a href="https://www.linkedin.com/in/ulices-ramirez-218a37215/">Ulices Ramirez</a></h4>
+  * <h4><h4>Gmail: ulicesramirez352@gmail.com</h4></h4>
+ <h2> Adell Matias </h2>
+ 
+  * <h4>ig: matias_adell</h4>
+  * <h4>linkedin:<a href="https://www.linkedin.com/in/matias-adell-8ba809142/">Matias Adell</a></li></h4>
+  * <h4><h4>Gmail: matiasadell@hotmail.com</h4></h4>
+ <h2>Vilardo Guido</h2>
+ 
+  * <h4>ig: vilardo_guido007</h4>
+  * <h4>linkedin:<a href="https://www.linkedin.com/in/guido-vilardo-a231a223a/">Guido Vilardo</a></h4>
+  * <h4><h4>Gmail: guidovilardo03@gmail.com</h4></h4>
