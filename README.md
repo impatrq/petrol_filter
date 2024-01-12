@@ -33,27 +33,27 @@ Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competenci
   * <h4>ig: petrol_filter2022</h4>
   * <h4></h4>linkedin:<a href="https://www.linkedin.com/company/petrol-filter/about/">Petrol filter</a></h4>
   * <h4>petrolfilter2022@gmail.com</li<h4>
- <h2>Rodriguez Guillet Martín</h2>
+ <h3>Rodriguez Guillet Martín</h3>
  
   * <h4>ig: tincho.rg</h4>
   * <h4>linkedin:<a href="https://www.linkedin.com/in/mart%C3%ADn-andr%C3%A9s-rodriguez-guillet-150857239/">Martin guillet Rodriguez</a></li></h4>
   * <h4>Gmail: mrodriguezguillet@gmail.com</h4>
- <h2>Rodriguez Franco</h2>
+ <h3>Rodriguez Franco</h3>
  
   * <h4>ig: fraan.roodri</h4>
   * <h4>linkedin:<a href="https://www.linkedin.com/in/franco-jose-rodriguez-58719a23a/">Franco Rodriguez</a></h4>
   * <h4> <h4>Gmail: francototites@gmail.com</h4></h4>
- <h2>Ramirez Ulices</h2>
+ <h3>Ramirez Ulices</h3>
  
   * <h4>ig: ul1ces_ra</h4>
   * <h4>linkedin:<a href="https://www.linkedin.com/in/ulices-ramirez-218a37215/">Ulices Ramirez</a></h4>
   * <h4><h4>Gmail: ulicesramirez352@gmail.com</h4></h4>
- <h2> Adell Matias </h2>
+ <h3> Adell Matias </h3>
  
   * <h4>ig: matias_adell</h4>
   * <h4>linkedin:<a href="https://www.linkedin.com/in/matias-adell-8ba809142/">Matias Adell</a></li></h4>
   * <h4><h4>Gmail: matiasadell@hotmail.com</h4></h4>
- <h2>Vilardo Guido</h2>
+ <h3>Vilardo Guido</h3>
  
   * <h4>ig: vilardo_guido007</h4>
   * <h4>linkedin:<a href="https://www.linkedin.com/in/guido-vilardo-a231a223a/">Guido Vilardo</a></h4>
