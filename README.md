@@ -28,8 +28,11 @@ Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competenci
 
 
 
-# Integrantes
 
+# petrol filter
+  * ig: petrol_filter2022
+  * linkedin:<li><a href="https://www.linkedin.com/company/petrol-filter/about/">Petrol filter</a></li>
+   * <h4 >petrolfilter2022@gmail.com</h4>
 * Rodriguez Guillet Martín
   * ig: tincho.rg
   * linkedin: <li><a href="https://www.linkedin.com/in/mart%C3%ADn-andr%C3%A9s-rodriguez-guillet-150857239/">Martin guillet Rodriguez</a></li>
