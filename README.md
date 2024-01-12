@@ -22,10 +22,7 @@ lo diseñaron y perfeccionaron estudiantes de la escuela secundaria tecnica N*7 
 ademas de su autonomia incorporamos un bot con el cual podes saber a que nivel estan cargada cada boya y saber cuando se llena una a traves de una alarma que lo indica, haciendolo aun mas completo y generando mas autonomia.
 
 # se dio a conocer el proyecto?
-si, nos anotamos, competimos y ganamos en las ONIETS(una competencia a nivel nacional aca en Argentina). fuimos ganadores de las medallas Oro (prototipos 1), plata (pro ambiente), Bronce (first plan).
-Logrando que me den una beca en el ITBA y en la
-UBP.
-ademas salimos en 3 radios conocidas aca en Argentina donde nos entrevistaban por nuestro proyecto, saliendo hasta en paginas de instagram de canales de televison como TN, C5n, etc.
+Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competencia nacional en Argentina. Consiguieron las medallas de Oro (prototipos 1), Plata (promedioambiente) y Bronce (primer plan). Estos logros allanaron el camino para una beca en el ITBA y la UBP. Su éxito también llamó la atención en tres reconocidas emisoras de radio de Argentina, donde fueron entrevistados sobre su proyecto. Además, su proyecto hizo apariciones en páginas de Instagram de canales de televisión como TN, C5n, etc.
 
 
 
