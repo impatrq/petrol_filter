@@ -5,23 +5,23 @@
 # Que es Petrol filter?
 El Petrol Filter sirve como prototipo de boyas autosostenibles diseñadas para separar el agua de los hidrocarburos, mitigando la expansión en caso de accidente y minimizando el impacto ambiental. Esto presenta una solución a corto plazo al importante problema de los derrames de petróleo, ofreciendo completa autonomía y eficacia.
 
-a continuacion un video explicativo de como es su funcionamiento:
+A continuacion un video explicativo de como es su funcionamiento:
 https://www.youtube.com/watch?v=hmyDRhHyRTM&ab_channel=PetrolFilter
 
 <!--    AAAA -->
 # Quienes lo diseñaron?
 
-lo diseñaron y perfeccionaron estudiantes de la escuela secundaria tecnica N*7 de Argentina.
+Lo diseñaron y perfeccionaron estudiantes de la escuela secundaria tecnica N*7 de Argentina.
 
 # [![sergiooooo-queridoooooooo.jpg](https://i.postimg.cc/7YBzNXy2/sergiooooo-queridoooooooo.jpg)](https://postimg.cc/jL7CxH2x)
 
-# el bot de telegram
+# El bot de telegram
 
 [![sergio-aprobameee.webp](https://i.postimg.cc/sxZFqYTB/sergio-aprobameee.webp)](https://postimg.cc/5Q1kFCd1)
 
-ademas de su autonomia incorporamos un bot con el cual podes saber a que nivel estan cargada cada boya y saber cuando se llena una a traves de una alarma que lo indica, haciendolo aun mas completo y generando mas autonomia.
+Ademas de su autonomia incorporamos un bot con el cual podes saber a que nivel estan cargada cada boya y saber cuando se llena una a traves de una alarma que lo indica, haciendolo aun mas completo y generando mas autonomia.
 
-# se dio a conocer el proyecto?
+# Se dio a conocer el proyecto?
 Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competencia nacional en Argentina. Consiguieron las medallas de Oro (prototipos 1), Plata (promedioambiente) y Bronce (primer plan). Estos logros allanaron el camino para una beca en el ITBA y la UBP. Su éxito también llamó la atención en tres reconocidas emisoras de radio de Argentina, donde fueron entrevistados sobre su proyecto. Además, su proyecto hizo apariciones en páginas de Instagram de canales de televisión como TN, C5n, etc.
 
 
@@ -29,7 +29,7 @@ Se inscribieron, compitieron y salieron victoriosos en la ONIETS, una competenci
 
 
 
-# petrol filter
+# Petrol Filter
   * ig: petrol_filter2022
   * linkedin:<li><a href="https://www.linkedin.com/company/petrol-filter/about/">Petrol filter</a></li>
    * <h4 >petrolfilter2022@gmail.com</h4>
